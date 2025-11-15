@@ -1,0 +1,7 @@
+python-telegram-bot==20.8
+qrcode
+Pillow
+opencv-python-headless
+numpy
+python-dotenv
+Flask
